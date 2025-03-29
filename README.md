@@ -12,14 +12,14 @@ pip install -r requirements.txt
 
 ## Dataset Setup
 
-Download and Extract the Dataset:
+1. Download and Extract the Dataset:
 Download Link: [Places365 Dataset](https://www.kaggle.com/datasets/pankajkumar2002/places365)
 
-Extract the dataset into a folder named dataset.
+2. Extract the dataset into a folder named dataset.
 
-Adjust the paths in the code to match your directory structure if needed. Comments are mentioned to add absolute paths.
+3. Adjust the paths in the code to match your directory structure if needed. Comments are mentioned to add absolute paths.
 
-Ensure the models folder is in the main directory.
+4. Ensure the models folder is in the main directory.
 
 ## Preprocessing
 Preprocess the dataset using the following command:
@@ -43,10 +43,11 @@ Start the Streamlit application for interactive colorization:
 streamlit run src/app.py
 ```
 ## Usage
-Run the Streamlit App using the command above.
+1. Run the Streamlit App using the command above.
 
-Upload grayscale images in the web interface.
+2. Upload grayscale images in the web interface.
 
+## License
 Click "Colorize Image" to process the image.
 
 View and download the colorized image from the interface.
