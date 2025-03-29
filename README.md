@@ -47,9 +47,9 @@ streamlit run src/app.py
 
 2. Upload grayscale images in the web interface.
 
+3. Click "Colorize Image" to process the image.
+
+4. View and download the colorized image from the interface.
+
 ## License
-Click "Colorize Image" to process the image.
-
-View and download the colorized image from the interface.
-
 Distribute under the MIT License. See [LICENSE](./LICENSE) for more information.
